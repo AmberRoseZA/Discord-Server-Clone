@@ -25,7 +25,7 @@
 ## Screenshots
 
 <div align="center">
-	<a href="https://github.com/NotSaksh"><img src="https://cdn.discordapp.com/attachments/908669547459018825/914122544351707206/unknown.png" alt="screenshot" /></a>
+	<a href="https://github.com/AmberRoseZA"><img src="https://cdn.discordapp.com/attachments/908669547459018825/914122544351707206/unknown.png" alt="screenshot" /></a>
 </div>
 
 ## Table of contents
@@ -40,8 +40,8 @@
 
 ## Need Help?
 
-- [Instagram](https://www.instagram.com/notsaksh6969/)
-- [Discord](https://discord.gg/7YtDujvD)
+- [Instagram](#)
+- [Discord](#)
 
 ## About
 
@@ -57,20 +57,23 @@
 ## Installation
 ```js
 #install dependencies
-$ pip install
+// This Code is using old version of Discord.py please use command:
+$ pip install -U discord==1.7.3
+$ pip install -U discord.py==1.7.3
+
 build for production and launch server
 $ python3 main.py
 ```
 ## Deployed
 
-- [GitHub](https://github.com/NotSaksh/Discord-Server-Cloner/)
-- [Repl](https://replit.com/@NotSaksh/Discord-Server-Cloner-3#.replit)
+- [GitHub](https://github.com/AmberRoseZA/Discord-Server-Clone/)
+- [Repl](#)
 
 
 ## Links
 
-- [Website](https://notyoursakshyam.notsakshyam6966.repl.co/)
-- [GitHub](https://github.com/NotSaksh)
+- [Website](#)
+- [GitHub](https://github.com/AmberRoseZA)
 
 
 ## Features
@@ -97,7 +100,7 @@ Contributions are always Welcome...
 -   Push your work and Create a Pull Request.....
 
 ### Issues
-If you have any issues with the project or you found a bug please create [new issue here](https://github.com/NotSaksh/Discord-Server-Cloner/issues)
+If you have any issues with the project or you found a bug please create [new issue here](https://github.com/AmberRoseZA/Discord-Server-Clone/issues)
 
 
 ### Pull Requests
@@ -105,4 +108,4 @@ When submitting a pull request:
 
 - Clone the repo.
 - Create a branch off of master and give it a meaningful name (e.g. my-awesome-new-feature).
-- Open a [pull request](https://github.com/NotSaksh/Discord-Server-Cloner/pulls) on [GitHub](https://github.com) and describe the feature or fix.
+- Open a [pull request](https://github.com/AmberRoseZA/Discord-Server-Clone/pulls) on [GitHub](https://github.com) and describe the feature or fix.
